@@ -62,7 +62,7 @@
                 //Create a stepped expression based on the color scale.
                 var steppedExp = [
                     'step',
-                    ['get', 'density'],
+                    ['get', 'SnfCollaboration'],
                     defaultColor
                 ];
                 steppedExp = steppedExp.concat(colorScale);
@@ -75,7 +75,7 @@
                     height: [
                         'interpolate',
                         ['linear'],
-                        ['get', 'density'],
+                        ['get', 'SnfCollaboration'],
                         0, 100,
                         1200, 960000
                     ]
