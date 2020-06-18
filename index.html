@@ -17,15 +17,13 @@
     <script type='text/javascript'>
         var map, datasource;
 
-        var defaultColor = '#00ff80';
+        var defaultColor = '#0';
         var colorScale = [
-            10, '#f72505',
-            20, '#f75e05',
-            50, '#f78205',
-            100, '#f7c707',
-            200, '#f7e305',
-            500, '#0bbf67',
-            1000, '#09e076'
+            10, '#bdfffdff',
+            20, '#9ffff5ff',
+            100, '#7cffc4ff',
+            500, '#6abea7ff',
+            1000, '#5e6973ff',
         ];
 
         function GetMap() {
@@ -36,6 +34,8 @@
 
                 //Pitch the map so that the extrusion of the polygons is visible.
                 pitch: 45,
+
+                language: "en-US",
 
                 view: 'Auto',
 
