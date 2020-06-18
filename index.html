@@ -19,19 +19,19 @@
 
         var defaultColor = '#00ff80';
         var colorScale = [
-            10, '#09e076',
-            20, '#0bbf67',
-            50, '#f7e305',
+            10, '#f72505',
+            20, '#f75e05',
+            50, '#f78205',
             100, '#f7c707',
-            200, '#f78205',
-            500, '#f75e05',
-            1000, '#f72505'
+            200, '#f7e305',
+            500, '#0bbf67',
+            1000, '#09e076'
         ];
 
         function GetMap() {
             //Initialize a map instance.
             map = new atlas.Map('myMap', {
-                center: [-94.6, 39.1],
+                center: [7, 46],
                 zoom: 3,
 
                 //Pitch the map so that the extrusion of the polygons is visible.
@@ -122,13 +122,13 @@
 <body onload="GetMap()">
     <div id="myMap" style="position:relative;width:100%;min-width:290px;height:600px;"></div>
 
-    <div id="legend">Population Density<br />(people/mi<sup>2</sup>)<br /></div>
+    <div id="legend">Collaboration Projects funded in Europe <br /></div>
 
     <fieldset style="width:calc(100% - 30px);min-width:290px;margin-top:10px;">
         <legend><h1 style="font-size:16px">Extruded choropleth map</h1></legend>
         This sample shows how to create a choropleth map of extruded polygons using data driven styling. 
         A choropleth map is a thematic map in which areas are shaded or patterned in proportion to the measurement 
-        of the statistical variable being displayed on the map, in this case the population density of each state.
+        of the statistical variable being displayed on the map, in this case the count of collaboration projects funded in europe (<a href="https://data.snf.ch/internationality?s1=1&s2=5">Data Source</a>).
     </fieldset>
 </body>
 </html>
