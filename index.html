@@ -56,7 +56,8 @@
                 map.sources.add(datasource);
 
                 //Load a dataset of polygons that have metadata we can style against.
-                datasource.importDataFromUrl('https://azuremapscodesamples.azurewebsites.net/Common/data/geojson/US_States_Population_Density.json');
+                //datasource.importDataFromUrl('https://azuremapscodesamples.azurewebsites.net/Common/data/geojson/US_States_Population_Density.json');
+                datasource.importDataFromUrl('https://blue-sky-0741e7403.azurestaticapps.net/data/snf-internationality-2019.json');
                 
                 //Create a stepped expression based on the color scale.
                 var steppedExp = [
