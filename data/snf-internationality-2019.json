@@ -232,8 +232,8 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "AUT.geojson",
-                                            "SnfCollaboration":  "155",
-                                            "SnfFellowship":  "11"
+                                            "SnfCollaboration":  155,
+                                            "SnfFellowship":  11
                                         },
                          "geometry":  {
                                           "type":  "Polygon",
@@ -458,8 +458,8 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "BEL.geojson",
-                                            "SnfFellowship":  "12",
-                                            "SnfCollaboration":  "123"
+                                            "SnfFellowship":  12,
+                                            "SnfCollaboration":  123
                                         },
                          "geometry":  {
                                           "type":  "Polygon",
@@ -596,7 +596,7 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "BGR.geojson",
-                                            "SnfCollaboration":  "4"
+                                            "SnfCollaboration":  4
                                         },
                          "geometry":  {
                                           "type":  "Polygon",
@@ -785,7 +785,7 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "BIH.geojson",
-                                            "SnfCollaboration":  "1"
+                                            "SnfCollaboration":  1
                                         },
                          "geometry":  {
                                           "type":  "Polygon",
@@ -950,7 +950,7 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "BLR.geojson",
-                                            "SnfCollaboration":  "1"
+                                            "SnfCollaboration":  1
                                         },
                          "geometry":  {
                                           "type":  "Polygon",
@@ -1203,7 +1203,7 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "CZE.geojson",
-                                            "SnfCollaboration":  "30"
+                                            "SnfCollaboration":  30
                                         },
                          "geometry":  {
                                           "type":  "Polygon",
@@ -1420,7 +1420,7 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "CHE.geojson",
-                                            "SnfFellowship":  "16"
+                                            "SnfFellowship":  16
                                         },
                          "geometry":  {
                                           "type":  "Polygon",
@@ -1593,8 +1593,8 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "DEU.geojson",
-                                            "SnfFellowship":  "56",
-                                            "SnfCollaboration":  "939"
+                                            "SnfFellowship":  56,
+                                            "SnfCollaboration":  939
                                         },
                          "geometry":  {
                                           "type":  "Polygon",
@@ -1903,8 +1903,8 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "DNK.geojson",
-                                            "SnfCollaboration":  "81",
-                                            "SnfFellowship":  "5"
+                                            "SnfCollaboration":  81,
+                                            "SnfFellowship":  5
                                         },
                          "geometry":  {
                                           "type":  "MultiPolygon",
@@ -2083,8 +2083,8 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "ESP.geojson",
-                                            "SnfCollaboration":  "121",
-                                            "SnfFellowship":  "9"
+                                            "SnfCollaboration":  121,
+                                            "SnfFellowship":  9
                                         },
                          "geometry":  {
                                           "type":  "Polygon",
@@ -2365,7 +2365,7 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "EST.geojson",
-                                            "SnfCollaboration":  "3"
+                                            "SnfCollaboration":  3
                                         },
                          "geometry":  {
                                           "type":  "Polygon",
@@ -2510,8 +2510,8 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "FIN.geojson",
-                                            "SnfFellowship":  "1",
-                                            "SnfCollaboration":  "33"
+                                            "SnfFellowship":  1,
+                                            "SnfCollaboration":  33
                                         },
                          "geometry":  {
                                           "type":  "Polygon",
@@ -2740,8 +2740,8 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "FRA.geojson",
-                                            "SnfFellowship":  "49",
-                                            "SnfCollaboration":  "565"
+                                            "SnfFellowship":  49,
+                                            "SnfCollaboration":  565
                                         },
                          "geometry":  {
                                           "type":  "MultiPolygon",
@@ -3124,8 +3124,8 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "GBR.geojson",
-                                            "SnfFellowship":  "116",
-                                            "SnfCollaboration":  "571"
+                                            "SnfFellowship":  116,
+                                            "SnfCollaboration":  571
                                         },
                          "geometry":  {
                                           "type":  "MultiPolygon",
@@ -3432,8 +3432,8 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "GRC.geojson",
-                                            "SnfFellowship":  "1",
-                                            "SnfCollaboration":  "23"
+                                            "SnfFellowship":  1,
+                                            "SnfCollaboration":  23
                                         },
                          "geometry":  {
                                           "type":  "MultiPolygon",
@@ -3732,8 +3732,8 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "HRV.geojson",
-                                            "SnfFellowship":  "1",
-                                            "SnfCollaboration":  "10"
+                                            "SnfFellowship":  1,
+                                            "SnfCollaboration":  10
                                         },
                          "geometry":  {
                                           "type":  "Polygon",
@@ -3978,7 +3978,7 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "HUN.geojson",
-                                            "SnfCollaboration":  "14"
+                                            "SnfCollaboration":  14
                                         },
                          "geometry":  {
                                           "type":  "Polygon",
@@ -4179,8 +4179,8 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "IRL.geojson",
-                                            "SnfFellowship":  "1",
-                                            "SnfCollaboration":  "20"
+                                            "SnfFellowship":  1,
+                                            "SnfCollaboration":  20
                                         },
                          "geometry":  {
                                           "type":  "Polygon",
@@ -4309,7 +4309,7 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "ISL.geojson",
-                                            "SnfCollaboration":  "7"
+                                            "SnfCollaboration":  7
                                         },
                          "geometry":  {
                                           "type":  "Polygon",
@@ -4466,8 +4466,8 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "ITA.geojson",
-                                            "SnfFellowship":  "13",
-                                            "SnfCollaboration":  "312"
+                                            "SnfFellowship":  13,
+                                            "SnfCollaboration":  312
                                         },
                          "geometry":  {
                                           "type":  "MultiPolygon",
@@ -5214,7 +5214,7 @@
                                             "tiny":  5,
                                             "homepart":  1,
                                             "filename":  "LUX.geojson",
-                                            "SnfCollaboration":  "8"
+                                            "SnfCollaboration":  8
                                         },
                          "geometry":  {
                                           "type":  "Polygon",
@@ -5319,7 +5319,7 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "LVA.geojson",
-                                            "SnfCollaboration":  "2"
+                                            "SnfCollaboration":  2
                                         },
                          "geometry":  {
                                           "type":  "Polygon",
@@ -5484,7 +5484,7 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "MDA.geojson",
-                                            "SnfFellowship":  "1"
+                                            "SnfFellowship":  1
                                         },
                          "geometry":  {
                                           "type":  "Polygon",
@@ -5669,7 +5669,7 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "MNE.geojson",
-                                            "SnfCollaboration":  "2"
+                                            "SnfCollaboration":  2
                                         },
                          "geometry":  {
                                           "type":  "Polygon",
@@ -5818,8 +5818,8 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "NLD.geojson",
-                                            "SnfCollaboration":  "204",
-                                            "SnfFellowship":  "17"
+                                            "SnfCollaboration":  204,
+                                            "SnfFellowship":  17
                                         },
                          "geometry":  {
                                           "type":  "Polygon",
@@ -5952,8 +5952,8 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "NOR.geojson",
-                                            "SnfFellowship":  "3",
-                                            "SnfCollaboration":  "34"
+                                            "SnfFellowship":  3,
+                                            "SnfCollaboration":  34
                                         },
                          "geometry":  {
                                           "type":  "MultiPolygon",
@@ -6396,7 +6396,7 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "MKD.geojson",
-                                            "SnfCollaboration":  "1"
+                                            "SnfCollaboration":  1
                                         },
                          "geometry":  {
                                           "type":  "Polygon",
@@ -6541,7 +6541,7 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "POL.geojson",
-                                            "SnfCollaboration":  "28"
+                                            "SnfCollaboration":  28
                                         },
                          "geometry":  {
                                           "type":  "Polygon",
@@ -6798,7 +6798,7 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "PRT.geojson",
-                                            "SnfCollaboration":  "31"
+                                            "SnfCollaboration":  31
                                         },
                          "geometry":  {
                                           "type":  "Polygon",
@@ -7007,7 +7007,7 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "ROU.geojson",
-                                            "SnfCollaboration":  "5"
+                                            "SnfCollaboration":  5
                                         },
                          "geometry":  {
                                           "type":  "Polygon",
@@ -7260,8 +7260,8 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "RUS.geojson",
-                                            "SnfFellowship":  "1",
-                                            "SnfCollaboration":  "63"
+                                            "SnfFellowship":  1,
+                                            "SnfCollaboration":  63
                                         },
                          "geometry":  {
                                           "type":  "MultiPolygon",
@@ -9780,7 +9780,7 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "SRB.geojson",
-                                            "SnfCollaboration":  "16"
+                                            "SnfCollaboration":  16
                                         },
                          "geometry":  {
                                           "type":  "Polygon",
@@ -10041,7 +10041,7 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "SVK.geojson",
-                                            "SnfCollaboration":  "4"
+                                            "SnfCollaboration":  4
                                         },
                          "geometry":  {
                                           "type":  "Polygon",
@@ -10250,7 +10250,7 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "SVN.geojson",
-                                            "SnfCollaboration":  "3"
+                                            "SnfCollaboration":  3
                                         },
                          "geometry":  {
                                           "type":  "Polygon",
@@ -10399,8 +10399,8 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "SWE.geojson",
-                                            "SnfFellowship":  "13",
-                                            "SnfCollaboration":  "103"
+                                            "SnfFellowship":  13,
+                                            "SnfCollaboration":  103
                                         },
                          "geometry":  {
                                           "type":  "Polygon",
@@ -10637,7 +10637,7 @@
                                             "tiny":  -99,
                                             "homepart":  1,
                                             "filename":  "UKR.geojson",
-                                            "SnfCollaboration":  "8"
+                                            "SnfCollaboration":  8
                                         },
                          "geometry":  {
                                           "type":  "Polygon",

@@ -7,10 +7,11 @@ foreach($row in $snfData){
     $found = $mapsData.features | ? {$_.properties.iso_a2 -eq $row.CountryIsoCode}
     
     if($found -ne $null){
+        $rowNumber = [int]$row.Number
         if($row.Type -eq "Collaboration") { 
-            $found.properties | Add-Member -Name "SnfCollaboration" -Value $row.Number -MemberType NoteProperty
+            $found.properties | Add-Member -Name "SnfCollaboration" -Value $rowNumber -MemberType NoteProperty
         }else{
-            $found.properties | Add-Member -Name "SnfFellowship" -Value $row.Number -MemberType NoteProperty
+            $found.properties | Add-Member -Name "SnfFellowship" -Value $rowNumber -MemberType NoteProperty
         }
     }
 }
